@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Молдова Виктория](README.md)
 * [yepp](yepp.md)
 * [Новичков](novichkov.md)
 
